@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -15,11 +14,11 @@ using System.Windows.Shapes;
 namespace WpfPractice
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// ExpenseStatement.xaml の相互作用ロジック
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class ExpenseStatement : Page
     {
-        public MainWindow()
+        public ExpenseStatement()
         {
             InitializeComponent();
         }
