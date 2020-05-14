@@ -14,11 +14,11 @@ using System.Windows.Shapes;
 namespace WpfPractice
 {
     /// <summary>
-    /// ExpenseStatement.xaml の相互作用ロジック
+    /// ExpenseReportPage.xaml の相互作用ロジック
     /// </summary>
-    public partial class ExpenseStatement : Page
+    public partial class ExpenseReportPage : Page
     {
-        public ExpenseStatement()
+        public ExpenseReportPage()
         {
             InitializeComponent();
         }
